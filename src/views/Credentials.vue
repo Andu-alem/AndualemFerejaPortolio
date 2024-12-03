@@ -5,23 +5,23 @@
 
     const certificateDatas = ref([
         {
-            image: 'src/assets/certificates/programmer.JPG',
+            image: '../assets/certificates/programmer.JPG',
             url: 'https://www.udacity.com/certificate/e/32135d0c-6861-11ef-9f30-1763a66b3880'
         },
         {
-            image: 'src/assets/certificates/ai-fundamentals.JPG',
+            image: '../assets/certificates/ai-fundamentals.JPG',
             url: 'https://www.udacity.com/certificate/e/88ec6d6c-9b8d-11ef-b875-07ced6c7914e'
         },
         {
-            image: 'src/assets/certificates/android-dev.JPG',
+            image: '../assets/certificates/android-dev.JPG',
             url: 'https://www.udacity.com/certificate/e/64e645e6-6794-11ef-8ad4-af48f6ebe7df'
         },
         {
-            image: 'src/assets/certificates/data-analyst.JPG',
+            image: '../assets/certificates/data-analyst.JPG',
             url: 'https://www.udacity.com/certificate/e/b1d22fdc-68c0-11ef-b60f-f79d8fa633f2'
         },
         {
-            image: 'src/assets/certificates/tempo.jpg',
+            image: '../assets/certificates/tempo.jpg',
             url: ''
         }
     ])

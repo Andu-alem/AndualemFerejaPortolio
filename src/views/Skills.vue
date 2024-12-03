@@ -3,22 +3,22 @@ export default {
     data() {
         return {
             languages: [
-                'src/assets/img/icons/ts.png',
-                'src/assets/img/icons/web.png',
-                'src/assets/img/icons/mern.png',
-                'src/assets/img/icons/next.png',
-                'src/assets/img/icons/py.png',
-                'src/assets/img/icons/laravel.png',
-                'src/assets/img/icons/vue.png',
-                'src/assets/img/icons/mysql.png',
-                'src/assets/img/icons/git_github.png',
-                'src/assets/img/icons/java.png',
-                'src/assets/img/icons/php.png',
-                'src/assets/img/icons/tailwind.png',
-                'src/assets/img/icons/wordpress.png',
-                'src/assets/img/icons/api.png',
-                'src/assets/img/icons/bootstrap.png',
-                'src/assets/img/icons/ps.png'
+                '../assets/img/icons/ts.png',
+                '../assets/img/icons/web.png',
+                '../assets/img/icons/mern.png',
+                '../assets/img/icons/next.png',
+                '../assets/img/icons/py.png',
+                '../assets/img/icons/laravel.png',
+                '../assets/img/icons/vue.png',
+                '../assets/img/icons/mysql.png',
+                '../assets/img/icons/git_github.png',
+                '../assets/img/icons/java.png',
+                '../assets/img/icons/php.png',
+                '../assets/img/icons/tailwind.png',
+                '../assets/img/icons/wordpress.png',
+                '../assets/img/icons/api.png',
+                '../assets/img/icons/bootstrap.png',
+                '../assets/img/icons/ps.png'
             ]
         }
     }
