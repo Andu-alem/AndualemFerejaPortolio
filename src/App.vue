@@ -5,7 +5,7 @@ import Footer from './components/Footer.vue'
 </script>
 
 <template>
-  <div class="min-h-[100vh] w-full bg-[url('./assets/img/bg1.webp')]">
+  <div class="min-h-[100vh] -mt-7 w-full bg-[url('./assets/img/bg1.webp')]">
     <div class="backdrop-blur-3xl min-h-[100vh] p-2 sm:p-5">
       <Header />
       <router-view v-slot="{ Component }">

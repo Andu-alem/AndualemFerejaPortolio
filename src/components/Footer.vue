@@ -8,16 +8,16 @@ import { PhoneIcon } from "@heroicons/vue/24/solid"
                 <PhoneIcon class="size-3 mt-1"/> 091584540/0712527086
             </span>
             <a href="https://linkedin.com/in/andualem-fereja-602484213" target="_blank">
-                <img class="w-5 h-5 rounded-lg hover:-translate-y-1 transition ease-in-out duration-500" src="../assets/img/icons/linkedin.png" alt="">
+                <img class="w-5 h-5 rounded-lg hover:-translate-y-2 transition ease-in-out duration-500" src="../assets/img/icons/linkedin.png" alt="">
             </a>
             <a href="https://github.com/Andu-alem/" target="_blank">
-                <img class="w-5 h-5 rounded-lg hover:-translate-y-1 transition ease-in-out duration-500" src="../assets/img/icons/github.png" alt="">
+                <img class="w-5 h-5 rounded-lg hover:-translate-y-2 transition ease-in-out duration-500" src="../assets/img/icons/github.png" alt="">
             </a>
             <a href="https://andualem.fereja12@gmail.com" target="_blank">
-                <img class="w-5 h-5 rounded-lg hover:-translate-y-1 transition ease-in-out duration-500" src="../assets/img/icons/gmail.png" alt="">
+                <img class="w-5 h-5 rounded-lg hover:-translate-y-2 transition ease-in-out duration-500" src="../assets/img/icons/gmail.png" alt="">
             </a>
             <a href="https://t.me/Andume" target="_blank">
-                <img class="w-5 h-5 rounded-lg hover:-translate-y-1 transition ease-in-out duration-500" src="../assets/img/icons/telegram.png" alt="">
+                <img class="w-5 h-5 rounded-lg hover:-translate-y-2 transition ease-in-out duration-500" src="../assets/img/icons/telegram.png" alt="">
             </a>
         </div>
       <div class="mt-3 flex justify-center">

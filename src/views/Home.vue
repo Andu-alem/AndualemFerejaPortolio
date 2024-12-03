@@ -15,7 +15,7 @@
           </p>
         </div>
         <div class="w-10/12 mx-auto sm:w-1/2 flex flex-col justify-center items-center">
-          <img class="w-[50%] sm:w-[77%] h-[50%] sm:h-[75%] md:w-[50%] rounded-full" src="../assets/img/andi_profile.jpg" alt="">
+          <img class="w-[50%] sm:w-[77%] h-[50%] sm:h-[84%] md:w-[50%] rounded-full" src="../assets/img/andi_profile.jpg" alt="">
         </div>
       </div>
 </template>
