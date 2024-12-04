@@ -4,7 +4,7 @@
 </script>
 
 <template>
-    <div class="flex flex-col-reverse sm:flex-row md:px-[7%] my-10">
+    <div class="flex flex-col-reverse sm:flex-row w-full md:px-[7%] my-10">
         <div class="w-10/12 mx-auto my-5 sm:my-1 sm:w-1/2 flex flex-col items-center justify-center">
           <div class="flex gap-1">
             <HashtagIcon class="size-5 text-sky-500 mt-2"/>

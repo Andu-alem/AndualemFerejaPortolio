@@ -28,7 +28,7 @@
 </script>
 
 <template>
-    <div class="min-h-[55vh]">
+    <div class="min-h-[55vh] w-full">
         <component :is="views[index]"></component>
         <div class="flex justify-center gap-20">
             <div class="flex cursor-pointer" @click="prev">
