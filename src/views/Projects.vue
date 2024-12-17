@@ -5,8 +5,9 @@
     import ChessGame from '../components/ChessGame.vue'
     import EventUpdater from '../components/EventUpdater.vue'
     import LandingPage from '../components/LandingPage.vue'
+    import NewForm from '../components/NewForm.vue'
     
-    const views = [ServiceAd, ChessGame, EventUpdater, LandingPage]
+    const views = [ServiceAd, NewForm, ChessGame, EventUpdater, LandingPage]
     let index = ref(0)
     
     function next() {
