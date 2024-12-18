@@ -6,8 +6,9 @@
     import EventUpdater from '../components/EventUpdater.vue'
     import LandingPage from '../components/LandingPage.vue'
     import NewForm from '../components/NewForm.vue'
+    import Portfolio from '../components/Portfolio.vue'
     
-    const views = [ServiceAd, NewForm, ChessGame, EventUpdater, LandingPage]
+    const views = [ServiceAd, NewForm, ChessGame, EventUpdater, LandingPage, Portfolio]
     let index = ref(0)
     
     function next() {
