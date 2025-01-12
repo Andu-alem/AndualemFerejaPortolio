@@ -26,9 +26,9 @@
         </div>
         <div class="my-3 text-white sm:my-1 text-center sm:text-left">
             <h4 class="text-center font-bold">Soft Skills</h4>
-            <p class="text-sm tracking-wide">Attentive to detail, problem Solving, and analytical</p>
-            <p class="text-sm tracking-wide">Proactive, responsible, and dependable</p>
-            <p class="text-sm tracking-wide">Adapatbile and flexible</p>
+            <p class="text-[15px] tracking-wide">Attentive to detail, problem Solving, and analytical</p>
+            <p class="text-[15px] tracking-wide">Proactive, responsible, and dependable</p>
+            <p class="text-[15px] tracking-wide">Adapatbile and flexible</p>
         </div>
     </div>
 </template>

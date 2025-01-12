@@ -17,3 +17,15 @@
 .router-link-active {
   color: white;
 }
+.conic-gradient {
+  background: conic-gradient(from 0deg, red, yellow, green);
+}
+.yellow-bg {
+  background-color: yellow;
+}
+.pic-container::after{
+  width: 500px;
+  height: 500px;
+  background-color: yellow;
+  z-index: 50;
+}
