@@ -8,9 +8,9 @@
         <div class="w-10/12 mx-auto my-5 sm:my-1 sm:w-1/2 flex flex-col items-center justify-center">
           <div class="flex gap-1">
             <HashtagIcon class="size-5 text-sky-500 mt-2"/>
-            <h3 class="text-2xl text-yellow-400">Hello, I'am Andualem</h3>
+            <h3 class="text-2xl text-yellow-400">Hi, I'am Andualem</h3>
           </div>
-          <p class="text-center text-[16px] tracking-wide text-white my-3">
+          <p class="text-center text-[16px] tracking-wide font-light text-white my-3">
             A seasoned software developer with a Computer Engineering background and proficiency in fullstack web developement using modern web development tools and standards. Whether you need a well-rounded full-stack developer in your team or want a high quality and modern landing page, blog, portfolio, or an e-commerce website feel free to reach me using your choice of provided addresses.
           </p>
         </div>
