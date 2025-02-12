@@ -4,11 +4,12 @@
     import ServiceAd from '../components/ServiceAd.vue'
     import ChessGame from '../components/ChessGame.vue'
     import EventUpdater from '../components/EventUpdater.vue'
-    import LandingPage from '../components/LandingPage.vue'
     import NewForm from '../components/NewForm.vue'
     import Portfolio from '../components/Portfolio.vue'
+    import ClassicMan from '../components/ClassicMan.vue'
+    import CoolMarket from '../components/CoolMarket.vue'
     
-    const views = [ServiceAd, NewForm, ChessGame, EventUpdater, LandingPage, Portfolio]
+    const views = [ClassicMan, ServiceAd, NewForm, ChessGame, EventUpdater, Portfolio, CoolMarket]
     let index = ref(0)
     
     function next() {

@@ -20,3 +20,6 @@
 .conic-gradient {
   background: conic-gradient(from 0deg, red, yellow, green);
 }
+body::-webkit-scrollbar{
+  display: none;
+}
