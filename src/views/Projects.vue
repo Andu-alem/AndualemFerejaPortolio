@@ -8,8 +8,9 @@
     import Portfolio from '../components/Portfolio.vue'
     import ClassicMan from '../components/ClassicMan.vue'
     import CoolMarket from '../components/CoolMarket.vue'
+    import QuantumBit from '../components/QuantumBit.vue'
     
-    const views = [ClassicMan, ServiceAd, NewForm, ChessGame, EventUpdater, Portfolio, CoolMarket]
+    const views = [ClassicMan, QuantumBit, ServiceAd, NewForm, ChessGame, EventUpdater, Portfolio, CoolMarket]
     let index = ref(0)
     
     function next() {

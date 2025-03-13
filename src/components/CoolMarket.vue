@@ -8,7 +8,7 @@
                 Cool Market - <span class="text-[15px] text-yellow-200">E-Commerce App</span>
             </h2>
             <p class="text-[14px] my-2">
-                I developed a comprehensive e-commerce website for Ideal Men's Fashion store using a modern tech stack including Next.js, Tailwind CSS, and SWR in front-end and Laravel with Sanctum as a backend. With two communicate through a RESTful api.<br>
+                I developed a comprehensive e-commerce website using a modern tech stack including Next.js, Tailwind CSS, and SWR in front-end and Laravel with Sanctum as a backend. With two communicate through a RESTful api.<br>
                 <strong>Key Features:</strong> Product listing page, product detail page, pagination, cart management, and admin functionality.
             </p>
             <div class="flex sm:flex-col mt-5 sm:items-start justify-center">
