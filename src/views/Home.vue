@@ -15,7 +15,7 @@
           </p>
         </div>
         <div class="relative w-10/12 mx-auto sm:w-1/2 flex flex-col justify-center items-center after:w-[155px] after:h-[155px] sm:after:w-[235px] sm:after:h-[235px] md:after:h-[277px] md:after:w-[277px] lg:after:h-[307px] lg:after:w-[307px] after:rounded-full after:absolute after:-z-50 after:p-3 after:bg-gradient-to-r after:from-sky-500 after:via-zinc-300 after:to-amber-500 after:animate-spin-slow">
-          <div class="w-[150px] h-[150px] sm:w-[230px] sm:h-[230px] md:w-[270px] md:h-[270px] md:w-[75%] lg:h-[300px] lg:w-[300px] rounded-full">
+          <div class="w-[150px] h-[150px] sm:w-[230px] sm:h-[230px] md:h-[270px] md:w-[75%] lg:h-[300px] lg:w-[300px] rounded-full">
             <img class="rounded-full w-full h-full" src="../assets/img/andi_profile.jpg" alt="">
           </div>
         </div>
